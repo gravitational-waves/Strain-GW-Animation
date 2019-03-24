@@ -1,2 +1,2 @@
 # Strain-GW-Animation
-Live Updating Subplots of Strain Data and Filtered Gravitational Wave
+Live Update of subplots of Strain Data and Filtered Gravitational Wave
